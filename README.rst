@@ -13,7 +13,7 @@ Install from pypi. ::
 
     pip install django-cookie-message
 
-In your settings: ::
+In your settings:
 
 * Ensure the django messages framework is installed.
 * Add ``'cookie_message'`` to ``INSTALLED_APPS``.
