@@ -22,7 +22,7 @@ In your settings:
 Configuration
 -------------
 
-**The message** can be changed by overriding the ``cookies/message.py`` template.
+**The message** can be changed by overriding the ``cookies/message.html`` template.
 
 **The cookie** can be changed by defining ``COOKIE_MESSAGE_KWARGS`` in your
 ``settings.py``. The default is: ::
